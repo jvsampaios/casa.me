@@ -6,7 +6,6 @@ Projeto desenvolvido visando aplicar conceitos de Programação Web e Banco de D
 
 </h3>
 
-Acesse o projeto: 
 
 ## **:computer: TECNOLOGIAS**
 
