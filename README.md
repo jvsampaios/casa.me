@@ -11,7 +11,6 @@ Projeto desenvolvido visando aplicar conceitos de Programação Web e Banco de D
 
   - **HTML**
   - **CSS**
-  - **Javascript**
   - **PHP**
   - **PHPMyAdmin**
 
